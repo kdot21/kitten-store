@@ -1,0 +1,22 @@
+a {
+	color: #ec5840;
+}
+
+.breadcrumbs a {
+	color: #ec5840;
+}
+
+.tabs-title>a {
+	color: #ec5840;
+}
+
+.top-bar input {
+	-webkit-transition: width 0.5s; 
+    transition: width 0.5s;
+}
+
+.top-bar input.expanded {
+	-webkit-transition: width 0.5s; 
+    transition: width 0.5s;
+    width: 460px;
+}
